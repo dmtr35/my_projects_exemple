@@ -1,0 +1,240 @@
+.start{
+    display: flex;
+    min-height:100vh;
+}
+
+.collection-list {
+    width: 30%;
+    position:relative;
+    text-align: center;
+    padding-left: 5px;
+}
+
+
+.words-list {
+
+    width: 70%;
+    text-align: center;
+    padding-right: 20px;
+}
+.ScrollToTopp {
+    height: 120px;
+    width: 50px;
+    position: fixed;
+    bottom: 15px; 
+    right: -13px;
+    z-index: 9999;
+    color: #629BF0;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.parentMenu {
+    position: relative;
+}
+
+.collection_block{
+    width: 85%;
+    display:inline-block;
+}
+
+.cardCollBasic_block{
+    padding: 8px;
+    text-align: center;
+}
+
+.cardCollBasic {
+    display: flex;
+    align-items: center;
+    min-width: 50%;
+}
+.textFormColl {
+    /* font-weight: bold; */
+    font-size: 20px;
+    margin: auto;
+    color:black;
+}
+.form-check {
+    cursor: default;
+}
+
+.form-check-input {
+    height: 20px;
+    width: 20px;
+    border: 2px solid black;
+    padding: 0;
+}
+
+
+/* .menu {
+    position: absolute;
+    top: 14px;
+    left: -45px;
+} */
+
+.menu3IconColl {
+    padding: 10px 0;
+    position: absolute;
+    top: 14px;
+    left: -45px;
+}
+.imageMemu {
+    font-size: 30px;
+    color: black;
+}
+.imageMemuColor {
+    font-size: 30px;
+    color: white;
+}
+.menu3IconParent {
+
+    position: relative;
+}
+.menu3Icon {
+    position: absolute;
+    top: 7px;
+    left: -95px;
+}
+.menu1IconParent {
+    position: relative;
+}
+.menu1Icon {
+    position: absolute;
+    top: 7px;
+    left: -35px;
+}
+
+.wordblock{
+    border: none;
+}
+
+.upload_file{
+    height: 100%;
+    text-align: center;
+}
+
+.dropdown_move{
+    width: 350px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+
+
+.wordEng {
+    border: 1px solid rgb(214, 214, 214);
+    border-radius: 4px;
+    text-align: center;
+    font-size: 20px;
+    line-height:20px;
+    padding: 12px;
+    user-select: none;
+}
+.wordRus {
+    text-align: center;
+    font-size: 20px;
+    line-height:20px;
+
+}
+/* ============================================== */
+/* Collection */
+.menu4IconCollParent {
+    /* position: absolute; */
+    display: flex;
+    left: -174px;
+    top: 14px;
+    /* height: 40px; */
+    }
+.iconMenuColl {
+    font-size: 28px;
+    color: black;
+}
+
+/* =================================================== */
+/* switch */
+
+.switch_block{
+    display: flex;
+    gap: 8px;
+    text-align: center;
+    align-items: center;
+}
+
+.switch {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 0 0 0;
+}
+.form-switch {
+    padding: 0 0 0 0;
+
+}
+#disabled-custom-switch {
+    width: 50px;
+    height: 25px;
+    margin: 3px;
+
+}
+/* =================================================== */
+
+/* dropdown */
+.btn-primary {
+    width: 100%;
+    font-size: 1.1rem;
+    line-height: 1.1rem;
+    height: 40px;
+    /* height: 45px; */
+}
+/* ======================================================== */
+
+.Search {
+    margin: 0 8px;
+    height: 40px;
+}
+/* ============================================================== */
+
+.div_file {
+    margin-top: 20px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    height: 38px;
+}
+
+.text_or{
+    margin:  12px 0 16px 0;
+
+}
+
+.image_info {
+    width: 54px;
+    height: 38px;
+    /* margin: 16px 0 0 16px; */
+    border: 1px solid black;
+    cursor: pointer;
+}
+.image_info:active {
+    width: 540px;
+    height: 540px;
+    margin: 16px 0 0 16px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: -50px;
+    right: 100px;
+}
+
+.Instructions {
+    width: 170px;
+    margin: 0;
+    text-align: center;
+}
+
+
+.account_exists{
+    display: flex;
+    margin-bottom: 16px;
+    gap: 6px;
+}
+

@@ -1,0 +1,22 @@
+version: '3.7'
+
+
+
+
+services:
+  node:
+    image: node
+  client:
+    # image: sever51/eng_client
+    build: ./client
+    ports: 
+      - 3000:3000
+  server:
+    # image: sever51/eng_server
+    build: ./server
+    ports: 
+      - 5000:5000
+
+
+
+

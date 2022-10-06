@@ -1,0 +1,99 @@
+be (was, been);быть
+do (did, done);делать
+have (had, had);иметь
+make (made, made);делать
+get (got, got / gotten);получать, становиться
+go (went, gone);идти
+take (took, taken);брать
+move;двигать (-ся)
+go (went, gone);идти
+walk;идти пешком, гулять
+run (ran, run);бежать
+turn;поворачивать
+fly (flew, flown);летать
+drive (drove, driven);вести машину
+swim (swam, swum);плыть
+jump;прыгать
+sit down (sat, sitten);садиться
+lie down (lay, lain);ложиться
+stand up (stood, stood);вставать
+stand (stood, stood);стоять
+lie (lay, lain);лежать
+sit (sat, sitten);сидеть
+step;делать шаг
+dance;танцевать
+roll;катить (-ся)
+push;толкать, нажимать
+pull;тянуть
+put (put, put);ставить, класть, помещать
+take (took, taken);брать
+give (gave, given);давать
+pass;передавать
+throw (threw, thrown);бросать
+hit (hit, hit);бить
+touch;прикасаться
+point at;указывать на что-то
+hold (held, held);держать
+knock;стучать (напр. в дверь)
+say;сказать
+speak (spoke, spoken);говорить
+tell (told, told);говорить, рассказывать, велеть
+talk;разговаривать
+ask;просить, спрашивать
+answer;отвечать
+call;звонить по телефону
+text;писать сообщение
+cry;плакать, кричать
+explain;объяснять
+repeat;повторять
+understand;понимать
+teach (taught, taught);учить (обучать)
+learn;учить (учиться)
+study;изучать
+read (read, read);читать
+write (wrote, written);писать
+watch;смотреть, наблюдать
+listen;слушать
+hear (heard, heard);слышать
+help;помогать
+think (thought, thought);думать
+correct;исправлять
+make a mistake (made, made);делать ошибку
+hint;подсказывать, намекать
+forget (forgot, forgotten);забывать
+remember;помнить
+remind;напоминать		
+live;жить
+sleep (slept, slept);спать
+wake up (woke, woken);просыпаться
+go to bed (went, gone);идти спать
+take a shower (took, taken);принимать душ
+brush one’s teeth;чистить зубы
+comb one’s hair;причесываться
+shave;бриться
+get dressed (got, got / gotten);одеваться
+put on make-up (put, put);делать макияж
+make breakfast (made, made);готовить завтрак
+have breakfast (had, had);завтракать
+go to work (went, gone);идти на работу
+work;работать
+rest;отдыхать
+take a bath (took, taken);принимать ванну
+cook;готовить (еду)
+eat (ate, eaten);есть
+do cleaning, clean (did, done);убираться
+do dishes (did, done);мыть посуду
+do the laundry (did, done);заниматься стиркой
+work out;заниматься спортом
+have fun (had, had);развлекаться, веселиться
+play;играть		
+begin (began, begun);начинаться (-ся)
+start;начинаться (-ся)
+continue;продолжать (-ся)
+go on (went, gone);продолжать (-ся)
+end;заканчивать (-ся)
+finish;заканчивать (-ся)
+stop;прекращать, останавливать (-ся)
+complete;завершать (-ся)
+postpone;откладывать, переносить
+put off (put, put);откладывать, переносить
